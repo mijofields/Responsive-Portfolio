@@ -1,0 +1,247 @@
+#headbox{
+
+	font-family: 'Saira Semi Condensed', serif;
+	font-size: 2em;
+    font-weight: bold;
+	color: white;
+	background-color:#4aaaa5;
+  	/*width: 245px;*/
+  	/*height: 70px;*/
+  	width:25%;
+  	/*height:5%;*/
+  	/*padding: 30px 0px 0px;*/
+  	/*text-align: center;*/
+  	/*margin: 0px;*/
+  	/*display: inline-block;*/
+  	display: flex;
+  	justify-content: center;
+   
+
+}
+
+
+h1,h2{
+
+	font-family: 'Saira Semi Condensed', sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	/*padding-bottom: 5px;*/
+	padding-left: 5px;
+	border-bottom: 1pt solid #777777;
+
+}
+
+.bio-pic{
+
+	max-height: 250px;
+	max-width: 250px;
+	margin: 0px 10px 10px;
+
+}
+
+#main-section{
+
+	width:55%;
+	/*display: inline-block;*/
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	/*margin: 5px 5px 5px 0px;*/
+	margin-top: 2%;
+	margin-bottom: 6%;
+	/*margin-bottom: 15px;*/
+	/*align-items: center;*/
+	/*padding-bottom: 20px;*/
+	text-align: left;
+	/*float: left;*/
+
+}
+
+#main-section-pic{
+
+	width:55%;
+	/*max-height: 850px;*/
+	/*height: 65%;*/
+	/*display: inline-block;*/
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	/*margin: 5px 5px 5px 0px;*/
+	margin-top: 2%;
+	margin-bottom: 6%;
+	/*align-items: center;*/
+	/*padding-bottom: 25px;*/
+	text-align: center;
+
+}
+	
+
+
+p, form{
+	color:#777777;
+	font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+#side-bar{
+
+	width: 30%;
+	height: 200px;
+	margin: 2%;
+	/*display: inline-block;*/
+	border: 1px solid #dddddd;
+	background: #ffffff;
+	text-align: left;
+	/*top: 1px;*/
+	/*float: left;*/
+
+}
+
+.smallpic{
+
+	max-height: 60px;
+	max-width: 60px;
+	
+}
+
+.right{
+
+	word-spacing: 15px;
+	float:left;
+	margin-right: 25px;
+
+}
+
+.left{
+
+	text-align: left;
+}
+
+header{
+
+	background-color: #ffffff;
+	border-bottom: 1px solid #cccccc;
+	/*height: 1.5;*/
+	display: flex;
+	justify-content: space-between;
+
+}
+
+body{
+
+	background-image: url(https://github.com/mijofields/Basic-Portfolio/blob/master/assets/images/intersection.png?raw=true);
+	
+
+}
+
+
+
+#next2head{
+
+	font-family: 'Saira Semi Condensed', sans-serif;
+	display: flex;
+	width: 25%;
+	justify-content: space-around;
+	align-items: center;
+	/*margin-left: 420px;*/
+	/*word-spacing: 40px;*/
+	font-weight: bold;
+
+}
+
+#leftpics{
+	
+	/*margin: auto;*/
+	display: flex;
+	justify-content: center;
+	/*flex-shrink: 1;*/
+	/*flex: none;*/
+	/*text-align: center;*/
+	/*padding-left: 40px;*/
+}
+
+footer{
+
+	font-size: 10px;
+	position: fixed;
+    bottom: 0;	
+	background-color: #666666;
+	height: 30px;
+	padding-top: 20px;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	margin-top: 10%;
+	font-family: 'Saira Semi Condensed', sans-serif;
+	color:white;
+	text-align: center;
+
+
+}
+
+
+.button{
+
+	font-family: 'Saira Semi Condensed', sans-serif;
+	color: white;
+	background-color:#4aaaa5;
+	font-size: 20px;
+	border-radius: 8px;
+	position: static;
+
+}
+
+.portpic{
+
+	display: inline-block;
+	/*display: flex;*/
+	/*flex-shrink: */
+	margin: 5px;
+	border: 1px solid #4aaaa5;
+	
+
+
+}
+
+.bigbreak{
+
+	visibility:hidden;
+	line-height: 65px;
+}
+
+.placeholder{
+
+	display:inline-block;
+	color: white;
+	background-color:#4aaaa5;
+	width:300px;
+	height: 25px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	bottom: 60px;
+}
+
+.port{
+	
+	width: 310px;
+	height: 200px;
+	display:inline-block;
+	margin-bottom: 5px;
+	position: relative;
+}
+
+.wrapper{
+
+	display: flex;
+	justify-content: center;
+
+
+
+    /* overflow: auto; */
+    /* text-align: center; */
+    /* height: 70vh; */
+    /* height: auto; */
+    /* clear: both; */
+    /*position: relative;*/
+    /*width: 80%;*/
+
+
+
+}
